@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
+  <metadata>
+    <id>ClassLibrary1.Feature1</id>
+    <version>1.0-feature1-Build27</version>
+    <title>ClassLibrary2 Title</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Some Description</description>
+    <summary>Some Description</summary>
+    <copyright>Copyright © Microsoft 2011</copyright>
+  </metadata>
+</package>

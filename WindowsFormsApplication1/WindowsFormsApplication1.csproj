@@ -35,7 +35,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ClassLibrary1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\ClassLibrary1.0.6\lib\net40\ClassLibrary1.dll</HintPath>
+      <HintPath>..\packages\ClassLibrary1.0.13-feature1\lib\net40\ClassLibrary1.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibrary1.Feature1">
+      <HintPath>..\packages\ClassLibrary1.Feature1.1.0-feature1-Build27\lib\net40\ClassLibrary1.Feature1.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

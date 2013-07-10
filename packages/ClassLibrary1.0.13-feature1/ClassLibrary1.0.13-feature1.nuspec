@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
-<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>ClassLibrary1</id>
-    <version>0.6</version>
+    <version>0.13-feature1</version>
     <title>ClassLibrary1</title>
     <authors>Microsoft</authors>
     <owners>Microsoft</owners>
