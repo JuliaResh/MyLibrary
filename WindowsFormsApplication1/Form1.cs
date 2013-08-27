@@ -6,7 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-using MyTest012345.ClassLibrary1;
+using ClassLibrary1;
 
 namespace WindowsFormsApplication1
 {
