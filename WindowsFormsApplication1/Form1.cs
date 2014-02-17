@@ -19,7 +19,7 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Class1 cl = new Clas1();
+            Class1 cl = new Class1();
             textBox3.Text= cl.Add(int.Parse(textBox1.Text), int.Parse(textBox2.Text)).ToString();
 
         }
