@@ -11,9 +11,5 @@ namespace ClassLibrary1
         {
             return a + ;
         }
-		public Ahd(int a, int b)
-        {
-            return a + ;
-        }
     }
 }
