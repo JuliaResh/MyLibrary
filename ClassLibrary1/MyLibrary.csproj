@@ -8,7 +8,7 @@
     <ProjectGuid>{549F5A17-00D9-480F-95B8-A7D94CDB2537}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ClassLibrary1</RootNamespace>
+    <RootNamespace>MyLibrary</RootNamespace>
     <AssemblyName>MyTestLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
